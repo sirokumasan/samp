@@ -1,5 +1,5 @@
 def hello
-  p "hello, ggg."
+  p "hello, kkk."
 end
 
 hello
